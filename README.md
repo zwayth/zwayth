@@ -41,7 +41,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=zwayth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=zwayth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
